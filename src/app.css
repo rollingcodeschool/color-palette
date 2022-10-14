@@ -1,0 +1,17 @@
+#root {
+    background-color: #FFDEE9;
+    background-image: linear-gradient(286deg, #FFDEE9 0%, #B5FFFC 100%);    
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .mainPage{
+      flex-grow: 1;
+  }
+  
+  .boxColor{
+    min-width: 200px;
+    height: 200px;
+
+  }
